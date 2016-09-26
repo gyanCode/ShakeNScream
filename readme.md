@@ -7,3 +7,8 @@ and Michael Scott screams at you while you do it.
 Have fun! And compete with your friends and see how hard can you shake!!
 
 Min API 18 or 4.3.x (Jelly Bean)
+
+Desired/upcoming features:
+-High score menu and rewards
+-Leaderboard
+-Baby crying and other annoying sounds
